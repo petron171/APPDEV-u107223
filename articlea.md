@@ -55,7 +55,7 @@ tasks. Some of the most popular libraries include:
 
 ## Python Functions
 Python functions are blocks of code that can be reused multiple times. A function is defined using
-the <span style="background-color: grey;">def</span> keyword, followed by the function name and a set of parentheses. The code inside the
+the `def` keyword, followed by the function name and a set of parentheses. The code inside the
 function is executed when the function is called.
 
 For example, the following code defines a function called greet that prints a message:
@@ -71,12 +71,12 @@ Python has a variety of built-in functions that can be used to perform a wide ra
 as:
 | **Function**          | **Description** |
 | -------------------  | --------------- |
-| <span style="background-color: grey;">print()</span>  | The print function is used to display output to the console.         |
-| <span style="background-color: grey;">len()</span>            | The len function is used to find the length of a string or a list.          |
-| <span style="background-color: grey;">str()</span>        | The str function is used to convert a value to a string.         |
-| <span style="background-color: grey;">int()</span>      | The int function is used to convert a value to an integer.        |
-| <span style="background-color: grey;">min()</span>        | The min function is used to find the minimum value in a list or a string.         |
-| <span style="background-color: grey;">max()</span>      | The max function is used to find the maximum value in a list or a string.    |
+| `print()`  | The print function is used to display output to the console.         |
+| `len()`         | The len function is used to find the length of a string or a list.          |
+| `str()`      | The str function is used to convert a value to a string.         |
+| `int()`    | The int function is used to convert a value to an integer.        |
+| `min()`      | The min function is used to find the minimum value in a list or a string.         |
+| `max()`   | The max function is used to find the maximum value in a list or a string.    |
 
 ## Conclusion
 Python is a powerful, high-level programming language that is widely used in many different fields.
