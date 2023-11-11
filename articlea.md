@@ -87,10 +87,7 @@ programmer.
 
 As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 
-
-<div style="color: grey; padding: 10px; border-left: 4px solid #888; margin-left: 10px;">
-    Python is an easy-to-use programming language for people who want to express concepts in code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's why I love it.
-</div>
+>Python is an easy-to-use programming language for people who want to express concepts in code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's why I love it.
 
 ## Resources
 Here are some helpful resources for learning more about Python:
