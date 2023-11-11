@@ -1,2 +1,3 @@
-# APPDEV-u107223
-Application Development Assignment A
+# Application Development Assignment A
+
+Submitted by u107223
